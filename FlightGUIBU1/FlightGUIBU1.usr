@@ -29,6 +29,7 @@ New Search=Action9\Script.mts
 Verify=Action17\Script.mts
 Test 1=Action18\Script.mts
 Test2=Action19\Script.mts
+test3=Action20\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -121,3 +122,6 @@ Action18\ObjectRepository.bdb=
 Action19\Script.mts=
 Action19\Resource.mtr=
 Action19\ObjectRepository.bdb=
+Action20\Script.mts=
+Action20\Resource.mtr=
+Action20\ObjectRepository.bdb=
