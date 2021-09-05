@@ -13,4 +13,5 @@ RunAction "Select Order", oneIteration
 RunAction "Search Order Tab", oneIteration
 RunAction "Verify", oneIteration
 RunAction "Test 1", oneIteration
+RunAction "Test2", oneIteration
 RunAction "Close App", oneIteration
