@@ -17,5 +17,4 @@ RunAction "Test2", oneIteration
 RunAction "test3", oneIteration
 RunAction "test4", oneIteration
 RunAction "test5", oneIteration
-RunAction "test6", oneIteration
 RunAction "Close App", oneIteration
