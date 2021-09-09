@@ -33,7 +33,6 @@ test3=Action20\Script.mts
 test4=Action21\Script.mts
 test5=Action22\Script.mts
 test6=Action23\Script.mts
-test7=Action24\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -138,6 +137,3 @@ Action22\ObjectRepository.bdb=
 Action23\Script.mts=
 Action23\Resource.mtr=
 Action23\ObjectRepository.bdb=
-Action24\Script.mts=
-Action24\Resource.mtr=
-Action24\ObjectRepository.bdb=
