@@ -26,7 +26,6 @@ Search Order By Name=Action10\Script.mts
 Search Order By Number=Action12\Script.mts
 Preview Order=Action16\Script.mts
 New Search=Action9\Script.mts
-Test 1=Action18\Script.mts
 test9=Action19\Script.mts
 
 [VuserProfiles]
@@ -111,9 +110,6 @@ Action16\ObjectRepository.bdb=
 Action9\Script.mts=
 Action9\Resource.mtr=
 Action9\ObjectRepository.bdb=
-Action18\Script.mts=
-Action18\Resource.mtr=
-Action18\ObjectRepository.bdb=
 Action19\Script.mts=
 Action19\Resource.mtr=
 Action19\ObjectRepository.bdb=
