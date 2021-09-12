@@ -28,7 +28,6 @@ Search Order By Number=Action12\Script.mts
 Close App=Action16\Script.mts
 Preview Order=Action17\Script.mts
 test1=Action18\Script.mts
-test=Action19\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -118,6 +117,3 @@ Action17\ObjectRepository.bdb=
 Action18\Script.mts=
 Action18\Resource.mtr=
 Action18\ObjectRepository.bdb=
-Action19\Script.mts=
-Action19\Resource.mtr=
-Action19\ObjectRepository.bdb=
