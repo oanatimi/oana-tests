@@ -29,6 +29,7 @@ Close App=Action16\Script.mts
 Preview Order=Action17\Script.mts
 test1=Action18\Script.mts
 test2=Action19\Script.mts
+test3=Action20\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
@@ -121,3 +122,6 @@ Action18\ObjectRepository.bdb=
 Action19\Script.mts=
 Action19\Resource.mtr=
 Action19\ObjectRepository.bdb=
+Action20\Script.mts=
+Action20\Resource.mtr=
+Action20\ObjectRepository.bdb=
