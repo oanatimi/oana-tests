@@ -12,5 +12,4 @@ RunAction "Search Order By Number", oneIteration
 RunAction "Select Order", oneIteration
 RunAction "Search Order Tab", oneIteration
 RunAction "Preview Order", oneIteration
-RunAction "dudu hagever", oneIteration
 RunAction "Close App", oneIteration
