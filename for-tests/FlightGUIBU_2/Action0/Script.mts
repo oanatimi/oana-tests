@@ -11,5 +11,4 @@ RunAction "Search Order By Name", oneIteration
 RunAction "Search Order By Number", oneIteration
 RunAction "Select Order", oneIteration
 RunAction "Search Order Tab", oneIteration
-RunAction "test1", oneIteration
 RunAction "Close App", oneIteration
