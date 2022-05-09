@@ -16,7 +16,7 @@ Launch App=Action1\Script.mts
 Login=Action2\Script.mts
 Book Flight=Action3\Script.mts
 Select Flight=Action4\Script.mts
-Order Flight=Action5\Script.mts
+
 Delete Order=Action7\Script.mts
 Order By Ad=Action8\Script.mts
 New Search=Action9\Script.mts
@@ -79,9 +79,7 @@ Action3\ObjectRepository.bdb=
 Action4\Script.mts=
 Action4\Resource.mtr=
 Action4\ObjectRepository.bdb=
-Action5\Script.mts=
-Action5\Resource.mtr=
-Action5\ObjectRepository.bdb=
+
 Action7\Script.mts=
 Action7\Resource.mtr=
 Action7\ObjectRepository.bdb=

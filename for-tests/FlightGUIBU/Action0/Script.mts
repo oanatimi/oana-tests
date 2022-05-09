@@ -2,7 +2,7 @@
 RunAction "Login", oneIteration
 RunAction "Book Flight", oneIteration
 RunAction "Select Flight", oneIteration
-RunAction "Order Flight", oneIteration
+
 RunAction "Update Order Details", oneIteration
 RunAction "Delete Order", oneIteration
 RunAction "Order By Ad", oneIteration
