@@ -1,5 +1,4 @@
-﻿RunAction "Launch App", oneIteration
-RunAction "Login", oneIteration
+﻿RunAction "Launch Application", oneIteration
 RunAction "Book Flight", oneIteration
 RunAction "Select Flight", oneIteration
 RunAction "Order Flight", oneIteration

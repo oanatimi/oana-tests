@@ -12,8 +12,7 @@ DevelopTool=AQT
 
 [Actions]
 Action0=Action0\Script.mts
-Launch App=Action1\Script.mts
-Login=Action2\Script.mts
+Launch Application=Action1\Script.mts
 Book Flight=Action3\Script.mts
 Select Flight=Action4\Script.mts
 Order Flight=Action5\Script.mts
@@ -69,9 +68,6 @@ Action0\ObjectRepository.bdb=
 Action1\Script.mts=
 Action1\Resource.mtr=
 Action1\ObjectRepository.bdb=
-Action2\Script.mts=
-Action2\Resource.mtr=
-Action2\ObjectRepository.bdb=
 Action3\Script.mts=
 Action3\Resource.mtr=
 Action3\ObjectRepository.bdb=
