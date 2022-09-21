@@ -1,0 +1,10 @@
+aws resourcegroupstaggingapi get-resources  --tag-filters Key=Environment,Values=Production --tags-per-page 100 --resource-type-filters s3:bucket
+
+delete bucket content
+aws s3 rm s3://mybucket --recursive
+delete bucketaws s3 rb s3://my-bucket
+
+aws lambda delete-function \
+    --function-name my-function
+	
+	aws sqs delete-queue --queue-url https://sqs.us-east-1.amazonaws.com/80398EXAMPLE/MyNewerQueue
